@@ -1,4 +1,4 @@
-# Uso de IA Generativa no Trabalho com Ética e Segurança ;)
+# Uso de IA Generativa no Trabalho com Ética e Segurança
 
 ## 📒 Descrição
 E-book contendo orientações para a utilização de IA generativa no trabalho
